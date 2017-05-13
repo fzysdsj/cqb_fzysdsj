@@ -1,0 +1,10 @@
+.thumbnail > img, .thumbnail a > img {
+    height: 200px;
+}
+.navbar-cqhk {
+	margin-bottom: 120px;
+} 
+.title  .panel-heading {
+	font: 500 20px/24px "华文行楷";
+
+}
